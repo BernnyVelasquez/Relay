@@ -1,0 +1,13 @@
+An app that alerts someone if you don't deactivate the timer. 
+
+TODO::
+1. Ask around for feedbacks.
+2. swift framework. UI + model, connect UI to the model (controllers)
+3. Design your UI
+4. Model design, database for in-app notification (complex)
+5. test it and receive user feedbacks.
+
+Questions::
+1. What features do you want to have, 
+2. What to do false alarm
+3. What is form of the alert, call, email, text, in-app notification. 
